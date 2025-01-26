@@ -7,7 +7,7 @@ body, html {
 /* Hero Section */
 .hero {
   height: 100vh;
-  background: url('principal.jpg') no-repeat center center/cover;
+  background: url('kuataa.jpg') no-repeat center center/cover;
   position: relative;
   color: white;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Sombra para melhorar legibilidade do texto */
